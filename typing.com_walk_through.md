@@ -2,7 +2,7 @@
 
 - Touch typing is a method of typing without the use of the sense of sight, or simply by feeling the keyboard. However, the sense of touch is only slightly involved since this typing method is governed by muscle memory through rigorous training with the proper typing method. This way, the fingers get so used to typing that they instinctively go to the appropriate keys without the typist needing to see or even feel around the keyboard.        - ***Source - Internet***
 
-## Getting Started with Typing.com
+## Getting Started with typing.com
 
 - Click on the below link to join the class <br>
 [Technical Hub Team]()
@@ -28,7 +28,7 @@
 
 
 ## Goal
-- Is to Complete All courses in the Typing.com lessons to improve the touch typing skills.
+- Is to Complete All courses in the typing.com lessons to improve the touch typing skills.
 - And Is to become an average typist with a **Typing Speed of 40 - 50 words per minute with at least 90 % Accuracy.**
 
 ## Assessment

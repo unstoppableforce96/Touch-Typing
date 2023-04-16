@@ -28,8 +28,8 @@
 
 
 ## Goal
-
-- Is to become an average typist with a **Typing Speed of 40 - 50 words per minute with at least 90 % Accuracy.**
+- Is to Complete All courses in the Typing.com lessons to improve the touch typing skills.
+- And Is to become an average typist with a **Typing Speed of 40 - 50 words per minute with at least 90 % Accuracy.**
 
 ## Assessment
 

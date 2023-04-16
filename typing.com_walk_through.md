@@ -20,7 +20,7 @@
 
 - Pick your typing course (Beginner or Intermediate or Advanced) based on your experience and start your touch typing journey.
 
-- **Please refer to [this markdown](https://github.com/unstoppableforce96/Touch-Typing/blob/main/touchtyping.md) markdown if you're a beginner for more knowledge on How to Start Touch Typing**
+- **If you're a Beginner Please refer to [this markdown](https://github.com/unstoppableforce96/Touch-Typing/blob/main/touchtyping.md) for more knowledge on How to Start Touch Typing**
 
 - You can also take some tests (1 Minute, 3 Minute or 5 Minute Tets or Page Tests) under Tests Menu.
 

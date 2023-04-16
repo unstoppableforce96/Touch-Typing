@@ -47,3 +47,10 @@
 - Take your time when typing to avoid mistakes. - The speed will pick up as you progress.
 - Always scan the text a word or two in advance.
 - Complete all typing lessons at Typing.com. It will help you to get above the average typing speed.
+
+## Platforms to Learn or Practice Touch Typing
+- [typing.com](https://www.typing.com/)
+- [ratatype.com](https://www.ratatype.com/)
+- [typeracer.com](https://play.typeracer.com/)
+- [monkeytype.com](https://monkeytype.com/)
+- [nitrotype.com](https://monkeytype.com/)

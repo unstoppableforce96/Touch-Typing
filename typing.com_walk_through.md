@@ -5,7 +5,7 @@
 ## Getting Started with typing.com
 
 - Click on the below link to join the class <br>
-[Technical Hub Team](bit.ly/3Cvgjh3)
+[Technical Hub Team](https://bit.ly/3Cvgjh3)
 
 - It should redirect you to the below page
 ![image1](image1.jpg)

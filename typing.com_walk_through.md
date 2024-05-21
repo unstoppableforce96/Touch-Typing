@@ -5,7 +5,7 @@
 ## Getting Started with typing.com
 
 - Click on the below link to join the class <br>
-[Technical Hub Team](https://bit.ly/3Cvgjh3)
+[Technical Hub Team](https://bit.ly/thubteam)
 
 - You will get this Page. **Click on Create a new Typing.com account**
 ![1](1.jpg)
